@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Alvin Zhang.
-- 🌱 I’m currently learning front end.
-- 📫 Reach me at zpf9193@gmail.com.
+- 👋 Hi, I’m Alvin (Peng Fei) Zhang.
+- 🌱 I’m a front-end (React) dev.
+- 📫 Feel free to reach me for job oppurtunities - zpf9193@gmail.com.
